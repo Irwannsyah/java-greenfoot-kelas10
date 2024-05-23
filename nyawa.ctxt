@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=nyawa
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ nyawa\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=nyawa()
+comment2.params=awal
+comment2.target=nyawa(java.lang.String)
+comment3.params=
+comment3.target=void\ updateGambar()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=int\ lihatNyawa()
+comment6.params=nilai
+comment6.target=void\ setNyawa(int)
+numComments=7
